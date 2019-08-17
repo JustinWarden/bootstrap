@@ -1,0 +1,21 @@
+.grey {
+    background-color:lightgrey;
+    margin: 1% 7%;
+}
+.green {
+    background-color:lightseagreen;
+    margin: 1% 7%;
+}
+.salmon {
+    background-color:lightsalmon;
+    margin: 1% 7%;
+}
+.btn {
+    margin: 2em 0 0 41%;
+}
+.outline {
+    margin: 2em 0 0 4%;
+}
+.header {
+    margin-left: 38%
+}
